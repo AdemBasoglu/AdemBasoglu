@@ -1,10 +1,13 @@
 [![Masrehead](https://gifdb.com/images/high/red-hacker-matrix-rxowhi05xduket6f/400px.gif)](https://AdemBasoglu.io)
 
 # Hi there 👋 I am Adem!
+
 ## I am a Software Developer Engineer in Test -QA| Java - Selenium - Cucumber-JDBC-API
+
 ![](https://komarev.com/ghpvc/?username=AdemBasoglu)
+
 ## Languages and Tools:
-#
+
 <img align="left" alt="java" height=36px src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png"/>
 <img align="left" alt="selenium" width=36px src= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png"/>
 <img align="left" alt="cucumber" height=36px src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwfaCCeBtUYrrJz30sBA4IHBFLclgMVbGItsmHWf0EhsD0SA64"/>
@@ -17,25 +20,15 @@
 <img align="left" alt="GitHub" width=36px src="https://www.oomnitza.com/wp-content/uploads/2022/06/github-logo-300x300.png" />
 
 
-#
-#
-#
+
+
 ## <summary> Github Stats</summary>
 ## <img align="left" src="https://github-readme-stats.vercel.app/api?username=AdemBasoglu&theme=dark" >
-#
-#
-#
-#
-#
+
 ## <summary> Most Used Languages</summary>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemBasoglu&layout=compact&theme=dark" >
 
-
-#
-#
-#
-#
-#
+<!--
 **AdemBasoglu/AdemBasoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Here are some ideas to get you started:
@@ -48,3 +41,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: .....
+-->
