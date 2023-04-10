@@ -1,13 +1,14 @@
-# adem
+<img align="left" alt="java" height=500px src="https://gifdb.com/images/high/red-hacker-matrix-rxowhi05xduket6f.gif"/> 
+
 # Hi there 👋 I am Adem!
 ## I am a Software Developer Engineer in Test -QA| Java - Selenium - Cucumber-JDBC-API
 ![](https://komarev.com/ghpvc/?username=AdemBasoglu)
 ## Languages and Tools:
 #
 <img align="left" alt="java" height=36px src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png"/>
-<img align="left" alt="selenium" width=36px src= "src/1200px-Selenium_Logo.png"/>
+<img align="left" alt="selenium" width=36px src= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png"/>
 <img align="left" alt="cucumber" height=36px src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwfaCCeBtUYrrJz30sBA4IHBFLclgMVbGItsmHWf0EhsD0SA64"/>
-<img align="left" alt="JDBC" width=36px src="src/JDBC.png" />
+<img align="left" alt="JDBC" width=36px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8x-_QBEnIf8jXYLY1c-PAh40xFC9Ia2zyYz35utSj&s" />
 <img align="left" alt="HTML5" width=36px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width=36px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="postman" width=50px src="src/postman.png" />
