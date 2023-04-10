@@ -1,5 +1,6 @@
 [![Masrehead](https://gifdb.com/images/high/red-hacker-matrix-rxowhi05xduket6f.gif)](https://AdemBasoglu.io)
 
+
 # Hi there 👋 I am Adem!
 
 ![](https://komarev.com/ghpvc/?username=AdemBasoglu)
@@ -34,9 +35,9 @@
 
 
 <a href="https://www.linkedin.com/in/adembasoglu?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrWUEAf95RcmzEmqVsmJavA%3D%3D">
-<img align="left" alt="linkedin" width=36px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" >
+<img align="left" alt="linkedin" width=55px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" />
 
-**AdemBasoglu/AdemBasoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br> AdemBasoglu/AdemBasoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--
 
