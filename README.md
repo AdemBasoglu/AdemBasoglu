@@ -9,6 +9,8 @@
 
 
 ### Languages and Tools:
+#
+#
 
 <img align="left" alt="java" height=36px src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png"/>
 <img align="left" alt="selenium" width=36px src= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png">
@@ -20,17 +22,23 @@
 <img align="left" alt="Jira" width=65px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXbZKnu7FYpiyDIq9di7Sre_z8CbddRXzIwQ&usqp=CAU" >
 <img align="left" alt="MySQL" width=36px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" >
 <img align="left" alt="GitHub" width=36px src="https://www.oomnitza.com/wp-content/uploads/2022/06/github-logo-300x300.png" >
->_
 
-## <summary>:bulb: Github Stats</summary>
+#
+#
+#
+### <summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=AdemBasoglu&theme=dark" >
 
-
-## <summary>:bulb:  Most Used Languages</summary>
+### <summary>:bulb:  Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemBasoglu&layout=compact&theme=dark" >
 
-<!--
+
+<a href="https://www.linkedin.com/in/adembasoglu?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrWUEAf95RcmzEmqVsmJavA%3D%3D">
+<img align="left" alt="linkedin" width=36px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" >
+
 **AdemBasoglu/AdemBasoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!--
 
 ### Here are some ideas to get you started:
 
