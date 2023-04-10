@@ -1,4 +1,4 @@
-[![Masrehead](https://gifdb.com/images/high/red-hacker-matrix-rxowhi05xduket6f/400px.gif)](https://AdemBasoglu.io)
+[![Masrehead](https://gifdb.com/images/high/red-hacker-matrix-rxowhi05xduket6f.gif)](https://AdemBasoglu.io)
 
 # Hi there 👋 I am Adem!
 
