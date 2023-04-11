@@ -1,4 +1,4 @@
-[![Masrehead](https://i.pinimg.com/originals/17/07/13/170713ecea0449df54e43dcf926950bf.gif)](https://AdemBasoglu.io)
+[![Masrehead](https://i.pinimg.com/originals/7b/c8/1c/7bc81cd6d8e2cdfdeffb890c60bdf284.gif)](https://AdemBasoglu.io)
 
 
 # Hi there 👋 I am Adem!
