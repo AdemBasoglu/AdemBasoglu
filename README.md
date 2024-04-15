@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=AdemBasoglu)
 
 
-## I am a Software Developer Engineer in Test -QA| Java - Selenium - Cucumber-JDBC-API
+## I am a Java Developer and Software Automation Tester -QA | Java - Spring- JavaScript - Angular- Selenium - Cucumber-JDBC-API
 
 
 ### Languages and Tools:
